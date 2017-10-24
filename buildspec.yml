@@ -2,7 +2,7 @@
 artifacts: 
   discard-paths: true
   files: 
-    - target/messageUtil-1.0.jar
+    - target/*.*
 phases: 
   build: 
     commands: 
