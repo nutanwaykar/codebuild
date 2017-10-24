@@ -1,0 +1,5 @@
+projectKey=Demo-Java
+serverUrl=http://172.27.59.130:9008
+dashboardUrl=http://172.27.59.130:9008/dashboard/index/Demo-Java
+ceTaskId=AV65B2MbJIReXlpxNfRq
+ceTaskUrl=http://172.27.59.130:9008/api/ce/task?id=AV65B2MbJIReXlpxNfRq
