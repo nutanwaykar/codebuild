@@ -1,6 +1,6 @@
 FROM ubuntu
 RUN apt-get update
 RUN apt-get install -y --force-yes openjdk-7-jre-headless wget
-ADD target/EmployeeApplication.war /var/lib/tomcat7/webapps/EmployeeApplication.war
+#ADD target/EmployeeApplication.war /var/lib/tomcat7/webapps/EmployeeApplication.war
 #EXPOSE 8080
 
